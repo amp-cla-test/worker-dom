@@ -1,5 +1,7 @@
 # WorkerDOM
 
+[![CLA assistant](https://cla-assistant.io/readme/badge/amp-cla-test/worker-dom)](https://cla-assistant.io/amp-cla-test/worker-dom)
+
 An in-progress implementation of the DOM API intended to run within a Web Worker. 
 
 **Purpose**: Move complexity of intermediate work related to DOM mutations to a background thread, sending only the necessary manipulations to a foreground thread.
